@@ -1,0 +1,12 @@
+.env
+/target
+/web-server/target
+/web-server/.gitignore
+/frontend/target
+/frontend/.gitignore
+/frontend/_index.html
+/db-server/target
+/db-server/.env
+/db-server/.gitignore
+/common/target
+/common/.gitignore
